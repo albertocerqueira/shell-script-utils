@@ -14,10 +14,10 @@ echo -e " "
 read opt
 case $opt in
 	0 ) echo -e "uploading, please wait..."
-		sudo scp -i parh/certificate-key.pem /path/file.nar ec2-user@255.255.255.255:/home/ec2-user/path/
+		sudo scp -i /path/certificate-key.pem /path/file.nar ec2-user@255.255.255.255:/home/ec2-user/path/
 		;;
 	1 ) echo -e "uploading, please wait..."
-		sudo scp -rp -i parh/certificate-key.pem /path/webapp/* mns-user@255.255.255.255:/home/mns-user/path/
+		sudo scp -rp -i /path/certificate-key.pem /path/webapp/* mns-user@255.255.255.255:/home/mns-user/path/
 		;;
 	2 ) echo -e "uploading, please wait..."
 		cd /path/
