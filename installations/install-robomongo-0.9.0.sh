@@ -31,5 +31,5 @@ echo "Terminal=false" >> robomongo.txt
 echo "Type=Application" >> robomongo.txt
 echo "Categories=Developer;" >> robomongo.txt
 echo "StartupNotify=true" >> robomongo.txt
-cp robomongo.txt /usr/share/applications/
-mv robomongo.txt ~/.local/share/applications/robomongo.desktop
+sudo cp robomongo.txt /usr/share/applications/robomongo.desktop
+sudo mv robomongo.txt ~/.local/share/applications/robomongo.desktop
