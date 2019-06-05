@@ -1,7 +1,7 @@
 #!/bin/bash
 # 
 # Install Maven:
-# version: 3.3.3
+# version: 3.3.9
 # 
 # SO: Ubuntu
 # version: 14.04 and 16.04
