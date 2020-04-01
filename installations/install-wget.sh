@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
 # 
 # Install WGET:
 # version: Any of the last

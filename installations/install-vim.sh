@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
 # 
 # Install VIM:
 # version: Any of the last
