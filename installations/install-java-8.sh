@@ -1,6 +1,6 @@
 #!/bin/bash
 # 
-# Install Apache HTTPD:
+# Install JAVA:
 # version: 8
 # 
 # SO: Ubuntu
