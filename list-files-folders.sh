@@ -1,5 +1,5 @@
 #!/bin/bash
-pasta='/home/developer/workspaces/workspaces-hub-view/git/hub-view/hub/js/*'
+pasta='/home/user/folder/*'
 
 for f in $pasta
 do
