@@ -7,6 +7,7 @@
 # version: 14.04 and 16.04
 # 
 # Refer: https://itsfoss.com/take-screenshot-linux/
+# Refer: https://mithun.co/software/install-flameshot-on-ubuntu-16-04/
 
 sudo apt-get update
 sudo apt install g++ build-essential qt5-default qt5-qmake qttools5-dev-tools
