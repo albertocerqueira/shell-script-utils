@@ -6,7 +6,9 @@
 # SO: Ubuntu
 # version: 14.04 and 16.04
 # 
-# Refer: https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/
+# Refer: 
+# https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/
+# https://github.com/nodesource/distributions/blob/master/README.md
 
 sudo apt-get install curl
 sleep 1
