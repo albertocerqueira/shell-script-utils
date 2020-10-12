@@ -9,9 +9,21 @@
 # Refer: https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/
 
 sudo apt-get install curl
+sleep 1
 curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-
+sleep 1
 sudo apt-get update
-sudo apt-get install nodejs
-
+sleep 1
 echo 'talvez você precise executar o comando [sudo apt install nodejs-legacy].'
+sleep 1
+echo 'talvez você precise executar o comando [sudo apt install nodejs-legacy].'
+sleep 1
+echo 'talvez você precise executar o comando [sudo apt install nodejs-legacy].'
+sleep 1
+echo 'talvez você precise executar o comando [sudo apt install nodejs-legacy].'
+sleep 1
+echo 'talvez você precise executar o comando [sudo apt install nodejs-legacy].'
+sleep 1
+sudo apt-get install nodejs
+sleep 1
+sudo apt install npm
